@@ -1,0 +1,19 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:52690",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "Pet_Simulator_X": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:9090"
+    }
+  }
+}

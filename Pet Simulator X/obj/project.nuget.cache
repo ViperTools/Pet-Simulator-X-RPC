@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZnuZ63onlOYrKIfs/QqJEGzkLlYDLNoT8eake+tyHOWNGQPyZ0c3a1Bedll/J2EwaEVRC5LuiWPCfz/cq225A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Pet Simulator X\\Pet Simulator X\\Pet Simulator X.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\discordrichpresence\\1.0.175\\discordrichpresence.1.0.175.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

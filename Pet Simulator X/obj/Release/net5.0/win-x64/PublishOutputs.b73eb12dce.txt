@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\PubTmp\Out\Pet Simulator X.pdb
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\PubTmp\Out\Pet Simulator X.exe

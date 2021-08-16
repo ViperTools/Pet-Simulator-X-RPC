@@ -1,0 +1,25 @@
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\appsettings.Development.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\appsettings.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Pet Simulator X.exe
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Pet Simulator X.deps.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Pet Simulator X.runtimeconfig.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Pet Simulator X.runtimeconfig.dev.json
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Pet Simulator X.dll
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\ref\Pet Simulator X.dll
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Pet Simulator X.pdb
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\DiscordRPC.dll
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.AssemblyInfo.cs
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\staticwebassets\Pet Simulator X.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\staticwebassets\Pet Simulator X.StaticWebAssets.xml
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\scopedcss\bundle\Pet Simulator X.styles.css
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.csproj.CopyComplete
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.dll
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\ref\Pet Simulator X.dll
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.pdb
+C:\Users\User\source\repos\Pet Simulator X\Pet Simulator X\obj\Release\net5.0\win-x64\Pet Simulator X.genruntimeconfig.cache
